@@ -1,6 +1,6 @@
 # Sobre mim
 👍Meu nome é Reinaldo de Oliveira
- 👍Meu email  para contato é[email](oliveira.reinaldo@escola.pr.gov.br)
+ 👍Email para contato [email](oliveira.reinaldo@escola.pr.gov.br)
 - 👀 Estou interessado em aprender a programar novas linguagens.
  🌱Atualmente estou  trabalhando com a linguagem JavaScript e Scratch.
 
