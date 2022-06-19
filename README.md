@@ -1,4 +1,3 @@
-![](https://www.ufpr.br/portalufpr/wp-content/uploads/2021/06/capa-arauc%C3%A1ria.jpeg)
 # Sobre mim
 👍Meu nome é Reinaldo de Oliveira  
  👍Email para contato [email](oliveira.reinaldo@escola.pr.gov.br)
